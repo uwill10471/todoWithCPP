@@ -166,9 +166,7 @@ public:
         cout << "5. Exit (press 5) \n";
         int input;
         cin >> input;
-        for (int i = 0; i < 5; i++)
-        {
-        }
+        
         switch (input)
         {
         case 1:
